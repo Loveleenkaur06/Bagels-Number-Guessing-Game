@@ -1,1 +1,19 @@
+[theme]
+
+backgroundColor = "#cfc289"
+borderColor="mediumSlateBlue"
+showWidgetBorder=false
+secondaryBackgroundColor = "#cfce87"
+textColor="black"
+font = "sans serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
+[theme.sidebar]
+textColor=""
+backgroundColor="#79ada5"
+secondaryBackgroundColor="#96adb4"
+showWidgetBorder=true
+font = "sans-serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
 
